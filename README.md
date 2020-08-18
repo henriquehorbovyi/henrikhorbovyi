@@ -4,11 +4,11 @@
 ### Hey 👋, I'm Henrique  
 <p> 
 <a target='_blank' href='https://youtube.com/rapaduradev'>
-  <img width='22' src='https://github.com/henrikhorbovyi/henrikhorbovyi/blob/master/yt.png'>
+  <img width='26' src='https://github.com/henrikhorbovyi/henrikhorbovyi/blob/master/yt.png'>
 </a>
 &nbsp;&nbsp;
 <a target='_blank' href='https://twitter.com/henrikhorbovyi'>
-  <img width='22' src='https://github.com/henrikhorbovyi/henrikhorbovyi/blob/master/twitter-logo-2-1.png'>
+  <img width='24' src='https://github.com/henrikhorbovyi/henrikhorbovyi/blob/master/twitter-logo-2-1.png'>
 </a>
 &nbsp;&nbsp;
 <a target='_blank' href='https://www.linkedin.com/in/henrique-horbovyi-719b92a9/'>
