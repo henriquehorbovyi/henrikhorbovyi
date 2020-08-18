@@ -2,11 +2,11 @@
 ### Hey 👋, I'm Henrique  
 <p> 
 <a href='https://youtube.com/rapaduradev' target='_blank'>
-  <img width='26' src='yt.png'>
+  <img width='26' src='youtube.png'>
 </a>
 &nbsp;&nbsp;
 <a href='https://twitter.com/henrikhorbovyi' target='_blank'>
-  <img width='24' src='twitter.png'>
+  <img width='24' src='twitter.jpg'>
 </a>
 &nbsp;&nbsp;
 <a href='https://www.linkedin.com/in/henrique-horbovyi-719b92a9/' target='_blank'>
