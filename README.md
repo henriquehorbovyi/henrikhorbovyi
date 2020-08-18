@@ -2,7 +2,7 @@
 ### Hey 👋, I'm Henrique  
 <p> 
 <a href='https://youtube.com/rapaduradev' target='_blank'>
-  <img width='26' src='youtube.png'>
+  <img width='26' src='youtube-black.jpg'>
 </a>
 &nbsp;&nbsp;
 <a href='https://twitter.com/henrikhorbovyi' target='_blank'>
