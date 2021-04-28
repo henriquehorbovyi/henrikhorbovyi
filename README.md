@@ -20,7 +20,7 @@ Welcome to my profile, I'm an Android Developer and in love with [Kotlin Program
 <table align='center'>
   <row>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=henrikhorbovyi&theme=vue&layout=compact'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=henrikhorbovyi&theme=vue&layout=compact&hide=javascript'>
     </td>
     <td>
       <img height='172' src='https://github-readme-stats.vercel.app/api?username=henrikhorbovyi&show_icons=true&theme=vue'>
